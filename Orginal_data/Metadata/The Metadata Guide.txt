@@ -1,0 +1,27 @@
+Metadata Guide
+
+Data file name: billboard.csv
+
+Types of data:
+	- String,
+	- Numerical,
+	- Date,
+	- Time.
+
+
+Table shape: 317 rows × 83 columns
+
+
+Column names with types:
+	- year - Numerical,
+	- track - String,
+	- time - Time,
+	- genre -  String,
+	- date.entered - Date
+	- date.peaked - Date
+	- x(n).week (76 columns) - Numerical.
+
+
+Orginal data memory usage: 205.7 KB
+
+	

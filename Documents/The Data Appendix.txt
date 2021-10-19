@@ -1,0 +1,6 @@
+Data Appendix
+
+Orginal data shape: 317 rows × 83 columns
+Orginal data memory usage: 205.7 KB
+
+
